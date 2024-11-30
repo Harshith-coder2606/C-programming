@@ -1,5 +1,5 @@
 //Sum of the series 
-1/1!+2/2!+⋯+𝑛/𝑛!
+//1/1!+2/2!+⋯+𝑛/𝑛!
 #include <stdio.h>
 
 double factorial(int n) {
